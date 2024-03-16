@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham Singh
-- 👀 I’m interested in Web Development, Competitive Programming & React Native Development
-- 🌱 I’m currently learning React Native
+- 👀 I’m interested in Web Development, Competitive Programming & React JS & Native Development
+- 🌱 I’m currently learning React Js & Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 LinkedIn Profile : https://www.linkedin.com/in/shubham-singh-59a95b230/
 
